@@ -1,5 +1,10 @@
 # React TypeScript Socket.io Project
 
+> Go to the server folder and **yarn start**.
+
+
+> Go to the client folder and **yarn dev**.
+
 * There are two main folders in this project. 
 * In the client folder, there is our Frontend application which is running on the 5173.
 * In the server folder, there is our backend server which is composed by using express which is running on the 3001.
